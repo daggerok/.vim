@@ -24,3 +24,5 @@ color dracula
 " pathogen
 execute pathogen#infect()
 
+" :set paste
+set paste
